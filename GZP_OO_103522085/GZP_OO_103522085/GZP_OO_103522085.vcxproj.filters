@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GZP_UML_Edit.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDocument.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Canvas.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonPanel.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Mode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBoxMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="UseCaseBoxMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassBox.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="UseCaseBox.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicObj.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="SeleteMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Port.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="LineObj.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AssociationLine.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="AssociationLineMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralizationLine.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="CompositionLine.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="CompositionLineMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralizationLineMode.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDialogForName.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupObj.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GZP_UML_Edit.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDocument.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Canvas.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonPanel.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Mode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyView.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassBoxMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="UseCaseBoxMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassBox.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="UseCaseBox.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="SeleteMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Port.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="LineObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AssociationLine.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="AssociationLineMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralizationLine.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CompositionLine.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="CompositionLineMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralizationLineMode.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDialogForName.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupObj.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GZP_OO_103522085.rc">
+      <Filter>資源檔</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
